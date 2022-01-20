@@ -1,3 +1,3 @@
-# Syllabus 2122s2
+# Course Manual 2122s2
 
 

@@ -6,4 +6,4 @@ This page contains the code for the CCS1 lecture for this week so you can follow
 
 After you complete the warm-up exercises and challenges:
 
-*Add info how to submit*
+Click on File -> Download As -> HTML (.html) to download an html representation of your notebook. Upload this notebook to Canvas in the appropriate assignment bucket. 
